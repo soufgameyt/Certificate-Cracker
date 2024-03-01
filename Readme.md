@@ -1,3 +1,4 @@
 # To install run the command
-```cd certificate-cracker```
-```pip install -r requirements.txt```
+``git clone https://github.com/soufgameyt/Certificate-Cracker.git``
+``cd certificate-cracker``
+``pip install -r requirements.txt``
